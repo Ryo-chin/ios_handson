@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F90923C721C150C1007FD00D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F90923C321C150C1007FD00D /* Main.storyboard */; };
+		F90923C721C150C1007FD00D /* Landing.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F90923C321C150C1007FD00D /* Landing.storyboard */; };
 		F90923C821C150C1007FD00D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F90923C521C150C1007FD00D /* LaunchScreen.storyboard */; };
 		F92A7D0221C144470035BF80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92A7D0121C144470035BF80 /* AppDelegate.swift */; };
 		F92A7D0421C144470035BF80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92A7D0321C144470035BF80 /* ViewController.swift */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F90923C421C150C1007FD00D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F90923C421C150C1007FD00D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Landing.storyboard; sourceTree = "<group>"; };
 		F90923C621C150C1007FD00D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F92A7CFE21C144470035BF80 /* HakibaSampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HakibaSampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F92A7D0121C144470035BF80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		F92A7D0021C144470035BF80 /* HakibaSampleApp */ = {
 			isa = PBXGroup;
 			children = (
-				F90923C321C150C1007FD00D /* Main.storyboard */,
+				F90923C321C150C1007FD00D /* Landing.storyboard */,
 				F90923C521C150C1007FD00D /* LaunchScreen.storyboard */,
 				F92A7D0121C144470035BF80 /* AppDelegate.swift */,
 				F92A7D0321C144470035BF80 /* ViewController.swift */,
@@ -234,7 +234,7 @@
 			files = (
 				F90923C821C150C1007FD00D /* LaunchScreen.storyboard in Resources */,
 				F92A7D0C21C1444D0035BF80 /* Assets.xcassets in Resources */,
-				F90923C721C150C1007FD00D /* Main.storyboard in Resources */,
+				F90923C721C150C1007FD00D /* Landing.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,12 +297,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F90923C321C150C1007FD00D /* Main.storyboard */ = {
+		F90923C321C150C1007FD00D /* Landing.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				F90923C421C150C1007FD00D /* Base */,
 			);
-			name = Main.storyboard;
+			name = Landing.storyboard;
 			sourceTree = "<group>";
 		};
 		F90923C521C150C1007FD00D /* LaunchScreen.storyboard */ = {
